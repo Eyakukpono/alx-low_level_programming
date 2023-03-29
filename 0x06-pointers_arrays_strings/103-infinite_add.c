@@ -75,4 +75,4 @@ return (0);
 *(r + digits) = '\0';
 rev_string(r);
 return (r);
-).
+}

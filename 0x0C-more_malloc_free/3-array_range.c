@@ -1,4 +1,3 @@
-3 - array_range.c code
 #include <stdlib.h>
 #include "main.h"
 /**
@@ -21,5 +20,4 @@ return (NULL);
 for (i = 0; min <= max; i++)
 ptr[i] = min++;
 return (ptr);
-
 }
